@@ -8,11 +8,15 @@ This feature allows for remote monitoring and immediate alerts. Ideal for cybers
 improves response strategies by mimicking both normal and malicious traffic behaviors in a controlled environment.
 
 
-**How to install**
+## How to install
+
+```bash
 
 git clone https://github.com/Iankulani/accurate-cyber-defense-network-traffic-bot.git
+cd accurate-cyber-defense-network-traffic-bot
+```
 
-
-**How to run**
-
+## How to run
+```bash
 python accurate-cyber-defense-network-traffic-bot.py
+```
